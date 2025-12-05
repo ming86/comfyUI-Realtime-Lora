@@ -55,11 +55,11 @@ Restart ComfyUI.
 
 ## Nodes
 
-**Realtime LoRA Trainer** - Trains using AI-Toolkit (FLUX, Z-Image, Wan)
+Search for these in ComfyUI:
 
-**Realtime LoRA Trainer (SDXL)** - Trains using sd-scripts (SDXL)
-
-**Apply Trained LoRA** - Applies the trained LoRA to your model
+- **Realtime LoRA Trainer** - Trains using AI-Toolkit (FLUX, Z-Image, Wan)
+- **Realtime LoRA Trainer (SDXL - sd-scripts)** - Trains using sd-scripts (SDXL)
+- **Apply Trained LoRA** - Applies the trained LoRA to your model
 
 ## Getting Started
 
